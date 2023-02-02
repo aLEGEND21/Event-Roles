@@ -1,5 +1,7 @@
 {
-    "FORUM_CHANNEL_ID": "",
-    "ROLE_ID": "",
+    "GUESS_THE_SONG_FORUM_CHANNEL_ID": "",
+    "GUESS_THE_SONG_ROLE_ID": "",
+    "SONG_HUNT_FORUM_CHANNEL_ID": "",
+    "SONG_HUNT_ROLE_ID": "",
     "TOKEN": ""
 }
