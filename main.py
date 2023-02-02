@@ -16,7 +16,7 @@ class Client(discord.Client):
         self.config = config
     
     async def setup_hook(self):
-        self.add_view(RoleView(self.config))
+        self.add_view(RoleView(self.config["GUESS_THE_SONG_ROLE_ID"]), RoleView(self.config["SONG_HUNT_ROLE_ID"]))
     
     async def on_ready(self):
         print(f"Logged in as {self.user}")
