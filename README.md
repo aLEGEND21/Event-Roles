@@ -1,6 +1,6 @@
-# Song Hunt Discord Bot
+# Event Roles Discord Bot
 
-This bot was created as a commission for `FireBurst#8044` on Discord. The bot gives and removes the Song Hunt role from a user when they click a button that is sent to newly created threads.
+This bot was created as a commission for `FireBurst#8044` on Discord. The bot gives and removes event roles from a user when they click a button that is sent to newly created threads.
 
 ## How to Set Up
 
